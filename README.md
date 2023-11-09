@@ -2,9 +2,17 @@
 
 ## Overview this project
 Exciting News! I've just unveiled a revolutionary Power BI car sales dashboard with an innovative graphical interface. This dashboard not only offers stunning visuals but also provides invaluable insights for budding data analysts.
+#
+## Dashboard Overview:
+![n car 1](https://github.com/user-saddam123/Car-Sales-Dashboard-New-Style-With-Graphical-Interface/assets/123800896/5ad36a57-bdf0-4b90-b021-a05a80420770)
+#
+
+![n car 2 ](https://github.com/user-saddam123/Car-Sales-Dashboard-New-Style-With-Graphical-Interface/assets/123800896/6591c777-1f77-4e56-b4c2-9174f7bf45ac)
+#
+![n car 3](https://github.com/user-saddam123/Car-Sales-Dashboard-New-Style-With-Graphical-Interface/assets/123800896/86db0ed6-04d7-41ee-97e9-bb91b0f9717d)
+#
 
 The dataset may be synthetic, but the experience it provides is anything but! In this report, I've carefully crafted essential Key Performance Indicators (KPIs) to give you a snapshot of the data:
-
 ### KPI's
 #
 * Total Sales: $2.33M
@@ -38,3 +46,8 @@ Your support in the form of likes, reposts, and comments will go a long way in h
 #
 Thank you!
 #
+Saddam Ansari 
+#
+Aspiring Data Analyst
+#
+Follow me ; https://www.linkedin.com/in/saddam-ansari-dataanalyst/?profileId=ACoAADZDK-wBHK35qP729r0w818771avUnVeo3k&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BZjCp%2FkkpTQuccqHIuA5v7g%3D%3D
